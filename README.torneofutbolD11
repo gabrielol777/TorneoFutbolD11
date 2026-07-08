@@ -49,4 +49,26 @@ def registrar_equipo(equipos):
         print("Ya se registraron los 12 equipos.") 
 
 estas lineas agregadas son para que el programa pueda encontrar los equipos agregados en la lista de clase de equipos y registrar equipos que seria la primer funcion presente en el futuro menu 
+se agrego la funcion registrar pzrtido que permite cagrar un partido entre dos partidos previamente registrados asi como tambien  tiene en cuenta mensajes de errores 
+tambien se agrego la funcion mostrar_tabla que ordena equipos segun puntos, dif de goles y goles a favor 
+asi como tambien la funcion mostrar_estadisticas
+que calcula y muestra info general del torneo como; 
+cantidad de equipos registrados;
+partidos jugados;
+total de goles;
+promedio de goles por partido;
+equipo con más puntos;
+equipo con más goles a favor;
+equipo con mejor diferencia de gol
+Finalmente, se desarrolló la función menu(), que permite al usuario interactuar con el programa mediante opciones.
 
+Desde el menú se puede:
+
+registrar equipos;
+mostrar equipos;
+registrar partidos;
+mostrar la tabla de posiciones;
+mostrar estadísticas;
+salir del programa.
+
+El menú se ejecuta en un ciclo hasta que el usuario decide salir.
