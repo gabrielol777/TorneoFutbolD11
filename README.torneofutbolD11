@@ -72,3 +72,8 @@ mostrar estadísticas;
 salir del programa.
 
 El menú se ejecuta en un ciclo hasta que el usuario decide salir.
+
+------- INTRUCCIONES PARA EJECUTAR ---------- 
+
+descargar el archivo del gitguh, al descargarlo y tener descargada la ultima version del python, ejecutar alt + d y colocar en el path cmd  luego colocar el arcchivo descargado pero previamente poner py, y ejecutar para que corra el programa 
+
